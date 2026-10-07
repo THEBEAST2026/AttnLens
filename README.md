@@ -1,7 +1,7 @@
 # AttnLens: Score, Execute, Check Attention Edits for Open-Weight LLMs
 
 > Hacktober Fest (Elevate x IIIT Nagpur) | Track 1: Best Open-Source AI Project
-> Team: `Team Everest` | Members: `Ayush Sahay, Smit Rodge`
+> Team: `Team Everest` | Members: `Ayush Raj Sahay`
 
 ## 1. Problem
 
