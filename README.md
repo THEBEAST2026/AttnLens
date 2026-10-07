@@ -147,7 +147,6 @@ The mathematical foundation of this project is from:
 
 > Julie Huang, Maggie Chlon, Gregory Gutin, Leon Chlon. **"Exact finite attention responses from RoPE derivatives."** arXiv:2609.14127 [stat.ML], 2026.
 
-All ideas in Section 6 originate from that paper. AttnLens is an independent implementation and application built by our team; it does not copy the authors' code. We will replicate key results ourselves and report our own numbers. This README is a qualifier proposal; no implementation is included in this repository.
 
 ## 16. License
 
